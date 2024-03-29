@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-jujutsu
+module github.com/fore-stun/tree-sitter-jujutsu
 
 go 1.22
 

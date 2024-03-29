@@ -2,7 +2,7 @@
   "name": "tree-sitter-jujutsu",
   "version": "0.0.1",
   "description": "Jujutsu grammar for tree-sitter",
-  "repository": "github:tree-sitter/tree-sitter-jujutsu",
+  "repository": "github:fore-stun/tree-sitter-jujutsu",
   "license": "MIT",
   "main": "bindings/node",
   "types": "bindings/node",
